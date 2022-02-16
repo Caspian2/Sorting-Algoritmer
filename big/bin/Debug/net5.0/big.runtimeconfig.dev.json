@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\caspi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\caspi\\.nuget\\packages"
+    ]
+  }
+}
