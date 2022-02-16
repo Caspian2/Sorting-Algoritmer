@@ -1,0 +1,15 @@
+E:\Bigbeans\MergeSort\bin\Debug\net6.0\MergeSort.exe
+E:\Bigbeans\MergeSort\bin\Debug\net6.0\MergeSort.deps.json
+E:\Bigbeans\MergeSort\bin\Debug\net6.0\MergeSort.runtimeconfig.json
+E:\Bigbeans\MergeSort\bin\Debug\net6.0\MergeSort.dll
+E:\Bigbeans\MergeSort\bin\Debug\net6.0\MergeSort.pdb
+E:\Bigbeans\MergeSort\obj\Debug\net6.0\MergeSort.csproj.AssemblyReference.cache
+E:\Bigbeans\MergeSort\obj\Debug\net6.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bigbeans\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfoInputs.cache
+E:\Bigbeans\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfo.cs
+E:\Bigbeans\MergeSort\obj\Debug\net6.0\MergeSort.csproj.CoreCompileInputs.cache
+E:\Bigbeans\MergeSort\obj\Debug\net6.0\MergeSort.dll
+E:\Bigbeans\MergeSort\obj\Debug\net6.0\refint\MergeSort.dll
+E:\Bigbeans\MergeSort\obj\Debug\net6.0\MergeSort.pdb
+E:\Bigbeans\MergeSort\obj\Debug\net6.0\MergeSort.genruntimeconfig.cache
+E:\Bigbeans\MergeSort\obj\Debug\net6.0\ref\MergeSort.dll
